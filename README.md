@@ -1,5 +1,5 @@
 # 💫 About Me:
-I m a fresher and i m searching for job<br>my skills are Webdevelopment<br>And Software development<br>
+I m a fresher and i m searching for job<br>my skills are PowerBI<br>DATA ANALYSIS<br>Excel<br>MySql<br>
 
 
 ## 🌐 Socials:
