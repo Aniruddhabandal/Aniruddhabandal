@@ -1,6 +1,7 @@
 # 💫 About Me:
-I m a fresher and i m searching for job<br>my skills are PowerBI<br>DATA ANALYSIS<br>Excel<br>MySql<br>
-
+Aspiring Data Analyst with strong fundamentals in SQL, Python, and Power BI. As a fresher, I have built hands-on projects involving data cleaning, exploratory data analysis (EDA), dashboard development, and query optimization.
+This repository showcases my practical work using PostgreSQL, MongoDB, and Python libraries like Pandas and Matplotlib to transform raw data into meaningful insights.
+Passionate about learning, solving real-world problems, and making data-driven decisions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aniruddha.bandal.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AniruddhaBandal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddha-bandal-01a25a282/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Aniruddha-Bandal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@AniruddhaBandal) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/scorpi0n15) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AniruddhaBanda2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@GamingWithAniruddha/videos) [![Gmail](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://gmail.google.com/bandalaniruddha24@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniruddhabandal97@gmail.com) 
